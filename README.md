@@ -1,4 +1,4 @@
-<h1>Hi, I'm Umeiaman! </h1>
+<h1>Hi, I'm Umeaiman! </h1>
 <h3><a href="https://github.com/umeaimanMerchant">Data Science</a>, <a href="www.linkedin.com/in/umeaiman-merchant">Senior Software Engineer</a></h3>
 
 <h4>👨‍💻 Software Development Project:</h4>
