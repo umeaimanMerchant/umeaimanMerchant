@@ -12,7 +12,7 @@
   - [House Prices Dashboard](https://public.tableau.com/views/HousingPriceinUS/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
   - [Indian Engineering Universities Dashboard](https://public.tableau.com/shared/KQH69D533?:display_count=n&:origin=viz_share_link)
 
-- <b> Data visualization using Tableau</b>
+- <b> Data visualization using Excel</b>
   - [Coffee Sales Dashboard](https://github.com/umeaimanMerchant/Data_Visualization_Excel/blob/main/README.md)
 
 
