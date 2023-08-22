@@ -9,9 +9,11 @@
 <h4>👨‍💻 Data Analysis Projects:</h4>
 
 - <b> Data visualization using Tableau</b>
-  - [Indian Engineering Universities](https://public.tableau.com/shared/KQH69D533?:display_count=n&:origin=viz_share_link)
+  - [House Prices Dashboard](https://public.tableau.com/views/HousingPriceinUS/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+  - [Indian Engineering Universities Dashboard](https://public.tableau.com/shared/KQH69D533?:display_count=n&:origin=viz_share_link)
 
-
+- <b> Data visualization using Tableau</b>
+  - [Coffee Sales Dashboard](https://github.com/umeaimanMerchant/Data_Visualization_Excel/blob/main/README.md)
 
 
 
