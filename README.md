@@ -1,10 +1,11 @@
 <h1>Hi, I'm Umeaiman! </h1>
 <h3><a href="https://github.com/umeaimanMerchant">Data Science</a>, <a href="www.linkedin.com/in/umeaiman-merchant">Senior Software Engineer</a></h3>
 
-<h4>👨‍💻 Software Development Project:</h4>
+<h4>👨‍💻 Machine Learning Projects:</h4>
 
-- <b>Python Project (Destop App)</b>
-  - [Book Store Destop Application](https://github.com/umeaimanMerchant/Book_Store-Python-Project)
+  - [Taxi fare prediction using Python](https://github.com/umeaimanMerchant/TLC_ML-Project)
+  - [Video Content analysis using Python](https://github.com/umeaimanMerchant/TikTok-ML-Project)
+  - [Churn rate prediction using Python](https://github.com/umeaimanMerchant/Waze-ML-Project/tree/main)
 
 <h4>👨‍💻 Data Analysis Projects:</h4>
 
@@ -15,6 +16,10 @@
 - <b> Data visualization using Excel</b>
   - [Coffee Sales Dashboard](https://github.com/umeaimanMerchant/Data_Visualization_Excel/blob/main/README.md)
 
+<h4>👨‍💻 Software Development Project:</h4>
+
+- <b>Python Project (Destop App)</b>
+  - [Book Store Destop Application](https://github.com/umeaimanMerchant/Book_Store-Python-Project)
 
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
