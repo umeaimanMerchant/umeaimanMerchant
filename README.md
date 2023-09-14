@@ -3,9 +3,8 @@
 
 <h4>👨‍💻 Machine Learning Projects:</h4>
 
-  - [Taxi fare prediction using Python](https://github.com/umeaimanMerchant/TLC_ML-Project)
-  - [Video Content analysis using Python](https://github.com/umeaimanMerchant/TikTok-ML-Project)
-  - [Churn rate analysis using Python](https://github.com/umeaimanMerchant/Waze-ML-Project/tree/main)
+  - [Taxi fare prediction](https://github.com/umeaimanMerchant/Taxi-Fare-prediction)
+  - [Churn rate analysis](https://github.com/umeaimanMerchant/Waze-ML-Project/tree/main)
 
 <h4>👨‍💻 Data Analysis Projects:</h4>
 
