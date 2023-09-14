@@ -5,7 +5,7 @@
 
   - [Taxi fare prediction using Python](https://github.com/umeaimanMerchant/TLC_ML-Project)
   - [Video Content analysis using Python](https://github.com/umeaimanMerchant/TikTok-ML-Project)
-  - [Churn rate prediction using Python](https://github.com/umeaimanMerchant/Waze-ML-Project/tree/main)
+  - [Churn rate analysis using Python](https://github.com/umeaimanMerchant/Waze-ML-Project/tree/main)
 
 <h4>👨‍💻 Data Analysis Projects:</h4>
 
