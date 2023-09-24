@@ -1,5 +1,5 @@
 <h1>Hi, I'm Umeaiman! </h1>
-<h3><a href="https://github.com/umeaimanMerchant">Data Science</a>, <a href="www.linkedin.com/in/umeaiman-merchant">Senior Software Engineer</a></h3>
+<h3><a href="https://github.com/umeaimanMerchant">Data Science Enthusiast </a>, <a href="www.linkedin.com/in/umeaiman-merchant">Senior Software Engineer</a></h3>
 
 <h4>👨‍💻 Machine Learning Projects:</h4>
 
