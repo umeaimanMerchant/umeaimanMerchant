@@ -5,7 +5,9 @@
 
   - [Taxi fare prediction](https://github.com/umeaimanMerchant/Taxi-Fare-prediction)
   - [Churn rate analysis](https://github.com/umeaimanMerchant/Waze-ML-Project/tree/main)
+  - [Salary Predictors](https://github.com/umeaimanMerchant/SalaryPredictor.git)
 
+    
 <h4>📊 Data Visualization Projects:</h4>
 
 - <b> Data visualization using Tableau</b>
