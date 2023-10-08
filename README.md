@@ -3,9 +3,8 @@
 
 <h4>🤖 Machine Learning Projects:</h4>
 
-  - [Taxi fare prediction](https://github.com/umeaimanMerchant/Taxi-Fare-prediction)
-  - [Churn rate analysis](https://github.com/umeaimanMerchant/Waze-ML-Project/tree/main)
-  - [Salary Predictors](https://github.com/umeaimanMerchant/SalaryPredictor.git)
+  - [Taxi fare Prediction](https://github.com/umeaimanMerchant/Taxi-Fare-prediction)
+  - [Salary Prediction](https://github.com/umeaimanMerchant/SalaryPredictor.git)
 
     
 <h4>📊 Data Visualization Projects:</h4>
