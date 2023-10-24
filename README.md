@@ -1,5 +1,5 @@
 <h1>Hi, I'm Umeaiman! </h1>
-<h3><a href="https://github.com/umeaimanMerchant">Data Analysis </a>, <a href="www.linkedin.com/in/umeaiman-merchant">Job Role- Senior Software Engineer</a></h3>
+<h3>Senior Software Engineer, Data Analyst</h3>
 
 <h4>🤖 Machine Learning Projects:</h4>
 
@@ -28,6 +28,8 @@
   - [Python Charts Made Easy: Unlocking Data Insights with Visualization](https://medium.com/@umeaiman.merchant17/python-charts-made-easy-unlocking-data-insights-with-visualization-8c7f10f14da4)
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
 
 
 [linkedin]: www.linkedin.com/in/umeaiman-merchant
