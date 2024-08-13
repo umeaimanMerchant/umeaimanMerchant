@@ -22,7 +22,7 @@ I'm a Masters Student 🎓 at University of South Florida, Tampa. I'm a data sci
 - 📝 Look at my [Resume](https://dsandeep0138.github.io/Resume.pdf) for more info.
 - ⚡ Life Philosophy : For things to change for you, you need to change! 
 
-![github stats](https://github-readme-stats.vercel.app/api?username=dsandeep0138&show_icons=true&hide_border=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=umeaimanMerchant&show_icons=true&hide_border=true)
 
 
 <h3>Senior Software Engineer, Data Analyst</h3>
