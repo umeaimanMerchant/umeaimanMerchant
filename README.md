@@ -20,8 +20,10 @@ I'm a Masters Student 🎓 at University of South Florida, Tampa. I'm a data sci
 - 💬 Feel free to ask me anything; I'm happy to help
 - 📫 How to reach me: umeaimanyusuf@tusf.edu | [LinkedIn](https://www.linkedin.com/in/umeaiman-merchant/) | [Portfolio](https://umeaimanmerchant.github.io/)
 - 📝 Look at my [Resume](https://dsandeep0138.github.io/Resume.pdf) for more info.
-- ⚡ Life Philosophy : For things to change for you, you need to change! 
 
+<!--
+- ⚡ Life Philosophy : For things to change for you, you need to change!
+  
 ![github stats](https://github-readme-stats.vercel.app/api?username=umeaimanMerchant&show_icons=true&hide_border=true)
 
 
@@ -58,7 +60,7 @@ I'm a Masters Student 🎓 at University of South Florida, Tampa. I'm a data sci
 
 
 
-<!--
+
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
