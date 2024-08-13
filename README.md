@@ -1,5 +1,34 @@
 <h1>Hi, I'm Umeaiman! </h1>
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/umeaiman-merchant/
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />][Portfolio]
+
+[Portfolio]: https://umeaimanmerchant.github.io/
+
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][Gmail]
+
+[Gmail]: mailto:umeaimanyusuf@usf.edu?subject=[GitHub]%20Source%20Umeaiman%20Merchant
+
+
+I'm a Masters Student 🎓 at University of South Florida, Tampa. I'm a data science enthusiast, with a constantly growing love for data analysis :chart_with_upwards_trend:. When I'm not coding, I watch movies :movie_camera:!
+
+- 🔭 I’m currently working on polishing my data anlaysis and data science skills.
+- 💬 Feel free to ask me anything; I'm happy to help
+- 📫 How to reach me: umeaimanyusuf@tusf.edu | [LinkedIn](https://www.linkedin.com/in/umeaiman-merchant/) | [Portfolio](https://umeaimanmerchant.github.io/)
+- 📝 Look at my [Resume](https://dsandeep0138.github.io/Resume.pdf) for more info.
+- ⚡ Life Philosophy : For things to change for you, you need to change! 
+
+![github stats](https://github-readme-stats.vercel.app/api?username=dsandeep0138&show_icons=true&hide_border=true)
+
+
 <h3>Senior Software Engineer, Data Analyst</h3>
+
+
+
 
 <h4>🤖 Machine Learning Projects:</h4>
 
@@ -27,18 +56,7 @@
   - [Probability Distributions in Data Science: Definitions, Characteristics, and Applications](https://medium.com/@umeaiman.merchant17/probability-distributions-in-data-science-definitions-characteristics-and-applications-813a1c8ec4a9)
   - [Python Charts Made Easy: Unlocking Data Insights with Visualization](https://medium.com/@umeaiman.merchant17/python-charts-made-easy-unlocking-data-insights-with-visualization-8c7f10f14da4)
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://www.linkedin.com/in/umeaiman-merchant/
-
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />][Portfolio]
-
-[Portfolio]: https://umeaimanmerchant.github.io/
-
-
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][Gmail]
-
-[Gmail]: mailto:umeaimanyusuf@usf.edu?subject=[GitHub]%20Source%20Han%20Sans
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
