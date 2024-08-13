@@ -12,7 +12,7 @@
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][Gmail]
 
 [Gmail]: mailto:umeaimanyusuf@usf.edu?subject=[GitHub]%20Source%20Umeaiman%20Merchant
-
+<br>
 
 I'm a Masters Student 🎓 at University of South Florida, Tampa. I'm a data science enthusiast, with a constantly growing love for data analysis :chart_with_upwards_trend:. When I'm not coding, I watch movies :movie_camera:!
 
