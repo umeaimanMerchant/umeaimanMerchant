@@ -33,12 +33,12 @@
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />][Portfolio]
 
-[Portfolio]: umeaimanyusuf@usf.edu
+[Portfolio]: https://umeaimanmerchant.github.io/
 
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][Gmail]
 
-[Gmail]: umeaimanyusuf@usf.edu
+[Gmail]: mailto:umeaimanyusuf@usf.edu?subject=[GitHub]%20Source%20Han%20Sans
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
