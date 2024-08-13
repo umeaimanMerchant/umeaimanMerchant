@@ -14,7 +14,7 @@
 [Gmail]: mailto:umeaimanyusuf@usf.edu?subject=[GitHub]%20Source%20Umeaiman%20Merchant
 <br>
 
-I'm a Masters Student 🎓 at University of South Florida, Tampa. I'm a data science enthusiast, with a constantly growing love for data analysis :chart_with_upwards_trend:. When I'm not coding, I watch movies :movie_camera:!
+I'm a Masters Student 🎓 at University of South Florida, Tampa. I'm a data science enthusiast, with a constantly growing love for data analysis :chart_with_upwards_trend:.
 
 - 🔭 I’m currently working on polishing my data anlaysis and data science skills.
 - 💬 Feel free to ask me anything; I'm happy to help
