@@ -14,9 +14,11 @@
 [Gmail]: mailto:umeaimanyusuf@usf.edu?subject=[GitHub]%20Source%20Umeaiman%20Merchant
 <br>
 
+
 I'm a Masters Student 🎓 at University of South Florida, Tampa. I'm a data science enthusiast, with a constantly growing love for data analysis :chart_with_upwards_trend:.
 
 - 🔭 I’m currently working on polishing my data anlaysis and data science skills.
+- 💼 Currently working as a Data Science Intern at Universal in the Global Product & Pricing Team.
 - 💬 Feel free to ask me anything; I'm happy to help
 - 📫 How to reach me: umeaimanyusuf@tusf.edu | [LinkedIn](https://www.linkedin.com/in/umeaiman-merchant/) | [Portfolio](https://umeaimanmerchant.github.io/)
 - 📝 Look at my [Resume](https://dsandeep0138.github.io/Resume.pdf) for more info.
