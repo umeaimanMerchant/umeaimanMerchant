@@ -21,7 +21,7 @@ I'm a Masters Student 🎓 at University of South Florida, Tampa. I'm a data sci
 - 💼 Currently working as a Data Science Intern at Universal in the Global Product & Pricing Team.
 - 💬 Feel free to ask me anything; I'm happy to help
 - 📫 How to reach me: umeaimanyusuf@tusf.edu | [LinkedIn](https://www.linkedin.com/in/umeaiman-merchant/) | [Portfolio](https://umeaimanmerchant.github.io/)
-- 📝 Look at my [Resume](https://dsandeep0138.github.io/Resume.pdf) for more info.
+- 📝 Look at my [Resume](https://github.com/user-attachments/files/22578709/Umeaiman.Merchant.Resume.DSci.pdf) for more info.
 
 
 
